@@ -1,7 +1,6 @@
 ## Hi! My name is Felipe. Nice to meet u! :wave:
 
 - Today: studying php frameworks, docker and aws services in depth. :metal:
-- Looking for: Backend or Fullstack work as Junior Dev with PHP. :slightly_smiling_face:
 
 <div>
   <a href="https://github.com/felipebrsk">
