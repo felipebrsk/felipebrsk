@@ -1,5 +1,7 @@
 ## Hi! My name is Felipe. Nice to meet u! :wave:
 
+- Currently learning GoLang... 💙
+
 - I'm a Fullstack Software Developer. :metal:
 - My deepest knowledges is: Laravel, React (TypeScript), Vue, Next, JS and Blade. :godmode:
 - I'm a cloud lover. AWS is my passion. :cloud:
