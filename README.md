@@ -28,6 +28,7 @@
   <img align="center" alt="Flp-Python" height="40" width="40" src="https://upload.wikimedia.org/wikipedia/commons/thumb/0/0a/Python.svg/120px-Python.svg.png?20101018043057" />
   <img align="center" alt="Flp-Vue" height="40" width="40" src="https://upload.wikimedia.org/wikipedia/commons/thumb/9/95/Vue.js_Logo_2.svg/120px-Vue.js_Logo_2.svg.png?20170919082558" />
   <img align="center" alt="Flp-Next" height="40" width="40" src="https://cdn.worldvectorlogo.com/logos/next-js.svg" />
+  <img align="center" alt="Flp-GoLang" height="40" width="40" src="https://go.dev/blog/go-brand/Go-Logo/PNG/Go-Logo_Blue.png" />
   <img align="right" alt="Rafa-yoda" src="https://media3.giphy.com/media/kXrImLzUUZ7oY/giphy.gif" width="150" height="125" />
 </div>
   
